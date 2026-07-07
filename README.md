@@ -1,5 +1,4 @@
-![SPY regime factsheet](assets/spy_01_factsheet.png)
-![Regime transitions](assets/spy_02_transitions.png)
+
 
 # P04 - Market Regime Clustering with the Wasserstein Distance
 
